@@ -1,0 +1,15 @@
+.perfil-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 5px;
+    margin-left: 20px;
+    transition: transform 0.3s;
+}
+
+.perfil-image:hover{
+
+    transform: scale(1.4);
+
+}
